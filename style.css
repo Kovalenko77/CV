@@ -5,3 +5,17 @@ body {
   h1 {
     color: blueviolet;
   }
+  h2 {
+    color: rgb(43, 150, 226);
+    background-image: linear-gradient(to left, rgb(166, 238, 130), rgb(253, 251, 251));
+    margin-right: 450px
+  }
+  .space { 
+    padding: 20px; /* Поля */
+    background: #6a91e5; /* Цвет фона */
+    border: 2px solid rgb(166, 238, 130); /* Параметры рамки */
+    margin-right: 50px
+   }
+    {
+
+   }
